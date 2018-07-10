@@ -2,8 +2,8 @@
 // ==================================================================================================
 
 // Array of Word Options (all lowercase)
-var wordsList = ["jerome", "neena", "darion", "lou", "greg", "jordan",
-  "jasmine", "stephen", "jacob", "adam", "rui", "luis"];
+var wordsList = ["cinnimon", "rosemary", "basil", "oregano", "nettel", "dandelion",
+  "lime", "lemon", "grape", "mango", "ginger", "sarsaparilla"];
 // Solution will be held here.
 var chosenWord = "";
 // This will break the solution into individual letters to be stored in array.
